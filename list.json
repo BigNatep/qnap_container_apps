@@ -1,0 +1,11 @@
+    {
+        "description": "The official build of Ubuntu.",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ubuntu_icon.png",
+        "displayName": "Ubuntu",
+        "name": "ubuntu",
+        "version": "16.04",
+        "location": "https://hub.docker.com/_/ubuntu/", 
+        "type": "docker"
+    }
